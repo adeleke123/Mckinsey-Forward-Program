@@ -7,12 +7,10 @@ After taking this course, you are now able to
 + Describe the importance of setting learning intentions
 + Distinguish between learning intentions and performance goals
 + Set a learning intention that connects to personal meaning
-Resources
-Before you move on, download a summary of key points and additional exercises to support your learning:
 
-Resources
+### Resources
 Before you move on, download a summary of key points and additional exercises to support your learning:
-[settings.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11585827/settings.pdf)
++ [settings.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11585827/settings.pdf)
 
 Key Takeaways
 You may also wish to explore these resources:
