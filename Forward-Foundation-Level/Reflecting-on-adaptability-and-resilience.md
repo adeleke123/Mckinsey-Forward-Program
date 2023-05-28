@@ -10,3 +10,8 @@ As you glimpse into her work life below, ask yourself:
 + How does this resonate with your own experience?
 
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/fe657490-16f9-4ce2-978d-d13c490ea7e6)
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/c464c165-8964-4c41-a09b-af0db20e3fbc)
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/c069df4c-09c0-40cf-93e9-6993cee686f1)
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/d1d4d26b-4fca-42ce-bafa-101696e110d1)
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/00b61b14-4667-429e-b507-c49d4a0bd54f)
