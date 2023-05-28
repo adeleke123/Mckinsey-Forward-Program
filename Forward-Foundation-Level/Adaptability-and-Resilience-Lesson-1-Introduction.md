@@ -1,5 +1,5 @@
-Welcome
-Dear Forward learners,
+
+## Dear Forward learners,
 
 Welcome to the first set of lessons in your program and your first milestone to complete: our Adaptability and Resilience signature offering.
 
@@ -14,6 +14,7 @@ We hope you enjoy and, more critically, that you find this helps you be more of 
 Sincerely,
 
 The Forward Team
-
+```
 In our lives, change is unavoidable, loss is unavoidable. In the adaptability and ease with which we experience change, lies our happiness and freedom.
-Gautama Buddha
+```
+                                                                                                                                                            `Gautama Buddha`
