@@ -12,12 +12,14 @@ After taking this course, you are now able to
 
 ## Resources
 
-Before you move on, download a summary of key points and additional exercises to support your learning:
++ Before you move on, download a summary of key points and additional exercises to support your learning:
 
-Key Takeaways (PDF)
++ [Key Takeaways.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11592066/Building-Learning-Habits-Workbook.pdf)
+
+
 You may also wish to explore these resources:
 
-+ How organizations can build healthy employee habits (Article)
-+ How to break habits (Video)
-+ Talent is Overrated (Book)
-+ The Art of Learning (Book)
++ [How organizations can build healthy employee habits](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/how-organizations-can-build-healthy-employee-habits) (Article)
++ [Talent is Overrated](https://geoffcolvin.com/books/talent-is-overrated/) (Book)
++ [The Art of Learning](https://www.joshwaitzkin.com/the-art-of-learning) (Book)
++ [How to breat habits](https://www.youtube.com/watch?v=NZnmFSDxtIE) (Video)
