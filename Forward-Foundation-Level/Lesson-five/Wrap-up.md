@@ -11,11 +11,12 @@ After taking this course, you are now able to
 ## Resources
 Before you move on, download a summary of key points and additional exercises to support your learning:
 
-Key Takeaways
-You may also wish to explore these resources:
++ [Key Takeaways.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11592870/Developing-Psychological-Safety-Workbook.pdf)
 
-Building a psychologically safe workplace (Video)
-Google’s Project Aristotle: Understand team effectiveness (Guide)
-Psychological safety, emotional intelligence, and leadership in a time of flux (Interview)
-Why psychological safety is vital for great teams and happy employees (Article)
-9 brilliant inventions made by mistake (Article)
++ You may also wish to explore these resources:
+
++ [Building a psychologically safe workplace](https://www.youtube.com/watch?v=LhoLuui9gX8) (Video)
++ [Google’s Project Aristotle: Understand team effectiveness](https://rework.withgoogle.com/print/guides/5721312655835136/) (Guide)
++ [Psychological safety, emotional intelligence, and leadership in a time of flux](https://www.mckinsey.com/featured-insights/leadership/psychological-safety-emotional-intelligence-and-leadership-in-a-time-of-flux) (Interview)
++ [Why psychological safety is vital for great teams and happy employees](https://www.forbes.com/sites/pavelkrapivin/2019/04/28/why-psychological-safety-is-vital-for-great-teams-and-happy-employees/?sh=358ed91d27ff) (Article)
++ [9 brilliant inventions made by mistake](https://incafrica.com/tim-donnelly/brilliant-failures/9-inventions-made-by-mistake.html) (Article)
