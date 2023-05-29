@@ -70,3 +70,18 @@ Questions to reframe from protection to opportunity
 + How might I be able to encourage that to happen?
 ```
 
+### Take it to your team
+Whether you are a manager or a peer, you can use your newfound knowledge of mindsets to nudge others in the right direction. Here are four actions you can take.
+
+### Role model
+When people see an adaptable mindset, they are drawn to imitate it. Talk openly about your mindsets, both the helpful and unhelpful ones, and what you do to reframe your mindset. Be as specific as possible.
+
+### Help them use APR
+Share the APR approach and help others use it. If tensions are high at a meeting, for example, and some people have adopted limiting mindsets, draw awareness to it and help team members pause.
+
+### Prime them
+Using phrases is a great way to prime others. For example, to get others into an abundance mindset you might ask, “What is the win-win here?” For a growth mindset you could try, “What can we learn from this?”
+
+### Reinforce mindsets
+Point out to others when they are demonstrating helpful mindsets and encourage them further. For example, if a colleague was operating from a creative place during a challenge, point out that it would have been easy to slip into a reactive mode and encourage everyone to keep up the creative mindset.
+
