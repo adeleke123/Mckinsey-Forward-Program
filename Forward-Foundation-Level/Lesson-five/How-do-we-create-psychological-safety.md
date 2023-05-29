@@ -7,6 +7,8 @@ So what does it take to create the space for teams to feel psychologically safe 
 ![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/205fd75c-002e-43d5-9149-4dec32cbf8ae)
 
 ![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/2116fa3b-7eef-4645-b1e7-bb173e99afbb)
-[Support-awareness.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11592601/Support-awareness.pdf)
+
++ [Support-awareness.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11592601/Support-awareness.pdf)
 ![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/cfa4199a-be2e-4334-8728-094c78cc7d62)
-[Build-strong-relationships.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11592608/Build-strong-relationships.pdf)
+
++ [Build-strong-relationships.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11592608/Build-strong-relationships.pdf)
