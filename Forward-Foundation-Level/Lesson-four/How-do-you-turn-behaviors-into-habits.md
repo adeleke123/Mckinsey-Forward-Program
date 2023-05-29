@@ -31,7 +31,7 @@ Starting with Cue, click on each spyglass icon below to learn more about how you
 + In addition to putting the habit into practice, maybe you also set aside a little time to read articles, 
 + watch videos, and reflect on the roadblocks you might encounter and how you could solve them.
 
-+ `Turbocharge with meaning`
+ `Turbocharge with meaning`
 
 ```
 Throughout this process, you have the opportunity to turbocharge your habit formation by 
