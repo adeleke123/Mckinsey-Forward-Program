@@ -9,7 +9,8 @@ In the past week, how frequently have you held adaptable and resilient mindsets?
 You can review and download all of the mindsets here.
 
 [Adaptable-and-resilient-mindsets (1).pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11588925/Adaptable-and-resilient-mindsets.1.pdf)
-Select your answer and click Submit.
+
++ Select your answer and click Submit.
 
 + None of the time	
 + Some of the time	
