@@ -30,8 +30,10 @@ Starting with Cue, click on each spyglass icon below to learn more about how you
 + Maybe you reach out to a new person each week to ask for feedback and a different person to give feedback.
 + In addition to putting the habit into practice, maybe you also set aside a little time to read articles, 
 + watch videos, and reflect on the roadblocks you might encounter and how you could solve them.
+
++ `Turbocharge with meaning`
+
 ```
-Turbocharge with meaning
 Throughout this process, you have the opportunity to turbocharge your habit formation by 
 connecting it to sources of meaning. 
 Choose a habit that truly resonates with you and get clear on why it’s important. 
