@@ -2,7 +2,7 @@
 Cultivating great habits will make your learning more effective and more fun. You do not need to implement all of these positive habits at once—let’s focus on just one to start.
 Click on the link below to refresh your memory of the positive learning behaviors.
 
-Learning behaviors and tips (PDF)
+[Learning-behaviors-and-tips (1).pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11591999/Learning-behaviors-and-tips.1.pdf)
 
 * Reflection
 
