@@ -12,7 +12,7 @@ We think of learning behaviors in three big categories. Ask yourself which of th
 * [Learning-behaviors-and-tips.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11589860/Learning-behaviors-and-tips.pdf)
 
 + `Preparation`
-Investing the time and energy to set yourself up for success
++ Investing the time and energy to set yourself up for success
 
 
 ### Set an intention and start small
@@ -34,7 +34,7 @@ Make learning a priority by breaking out the steps you will need to take and inc
 Before engaging in an activity, imagine the challenges you might face, whether it is a matter of skill (ability to do it), will (desire to do it), or opportunity (chance to do it). More importantly, consider how you will work around anticipated challenges. This kind of proactive behavior will help you learn more efficiently in new contexts.
 
 + `Execution`
-Learning and performing to the best of your capabilities, and enjoying yourself in the process
++ Learning and performing to the best of your capabilities, and enjoying yourself in the process
 
 ### Practice deliberately and on the edge
 
@@ -55,7 +55,7 @@ One of the best ways for our brains to process information is to teach it to som
 Learning is a continuous process of collecting information, evaluating it in context, trying new things, and considering alternatives. The art of really paying attention, and not learning “on autopilot,” can help us do this better (and make learning more interesting!).
 
 + `Reflection`
-Learning from your past actions
++ Learning from your past actions
 
 ### Give and receive feedback
 
