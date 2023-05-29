@@ -15,7 +15,7 @@ Before you move on, download a summary of key points and additional exercises to
 
 You may also wish to explore these resources:
 
-[The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) (Video)
-[How your fixed mindset is limiting your career, and how to change it](https://www.forbes.com/sites/ashleystahl/2020/07/23/how-your-fixed-mindset-is-limiting-your-career-and-how-to-change-it/?sh=b61b92a2a061) (Article)
-[Growth mindset tempers the effect of poverty on academic achievement](https://www.pnas.org/doi/pdf/10.1073/pnas.1608207113) (Study)
-[How the scarcity mindset can make problems worse](https://www.npr.org/2017/03/23/521195903/how-the-scarcity-mindset-can-make-problems-worse) (Audio)
++ [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) (Video)
++ [How your fixed mindset is limiting your career, and how to change it](https://www.forbes.com/sites/ashleystahl/2020/07/23/how-your-fixed-mindset-is-limiting-your-career-and-how-to-change-it/?sh=b61b92a2a061) (Article)
++ [Growth mindset tempers the effect of poverty on academic achievement](https://www.pnas.org/doi/pdf/10.1073/pnas.1608207113) (Study)
++ [How the scarcity mindset can make problems worse](https://www.npr.org/2017/03/23/521195903/how-the-scarcity-mindset-can-make-problems-worse) (Audio)
