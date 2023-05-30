@@ -1,4 +1,7 @@
 ## Data
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/67b418f4-3fd7-43a9-b559-54681e1e7356)
+
 In a connected world, we create mountains of data as we use our devices. Organizations in every sector now rely on the flow and exchange of that data. Advanced analytical techniques can even create new data from patterns in existing information.
 
 Learn how creative people and organizations are finding new ways to use data.
