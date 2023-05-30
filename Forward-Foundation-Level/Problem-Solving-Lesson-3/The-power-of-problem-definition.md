@@ -1,0 +1,23 @@
+What are you trying to solve?
+As we just saw, Arun’s first step in reviewing his team’s proposal was to align them on the definition of the problem they were solving. Here, Marc and Emily talk about the importance of this first step in the hypothesis-led approach.
+For examples of the power of problem definition, review “The power of defining the problem” [Harvard Business Review](https://hbr.org/2012/09/the-power-of-defining-the-prob)
+
+## Video transcript
+
+EMILY: So the first step of problem solving might sound really simple. It's around defining the problem. So what is defining the problem, you might say. And though it sounds really simple, it's actually articulating what is it that you are trying to solve through the course of the problem-solving exercise.
+
+It actually is probably one of the most challenging steps of the problem-solving approach for a number of reasons. The first is because everybody actually might see the problem a little bit differently. So getting clarity on what is it that you're actually solving is really paramount.
+
+Another reason is because people might have different ways that they're defining success in what the problem is aimed to solve. In other words, what does successfully solving the problem actually look like? So articulating and aligning around the core problem and what success looks like is one of the fundamental steps, but is actually, much more tricky than it might initially appear. And so, Marc, what does that look like in a day-to-day life for you?
+
+MARC: I think it can vary in defining the problem in terms of the time frame, but I'll just give an example. If you're introducing a new product and trying to think about how you price your product, initially, that could sound like a relatively defined problem. What's the price for this product?
+
+But actually, different people could be thinking about it different ways. Are you pricing it to grant adoption? Are you pricing it to maximize profits? And so actually being very clear on what that problem is that you're trying to solve and getting alignment can be absolutely critical.
+
+Defining the problem also occurs at different periods of time. And so in a larger project, you may have really spent the time, hopefully, up front, to define what that is and have alignment, but sometimes if there's a shorter duration, a couple of weeks, couple of days, or even in the moment, it's those times where you may take for granted that everyone knows what the problem you're trying to solve is. But those can actually be the times when it's most useful to stop and ask yourself, ask the people you're working with – are we aligned on the problem we're trying to solve together?
+
+EMILY: It's interesting about making decisions and problem-solving in the moment because there are actually different types of ‘in the moment’ decisions. There are those that are in an urgent crisis mode in the moment, and then there are those sort of ad-hoc decisions that you have to make with high frequency, but perhaps lower consequences. I find the first group actually particularly interesting because in those moments, it's high-intensity, high-stress, high-urgency.
+
+One of the examples that I often think about is one of our clients, the CEO of a cruise line, called at 3:00 AM in the morning because they had suffered a series of pretty significant catastrophes on their cruise liners, and as a result, we were called 3:00 in the morning to help them solve this very important, pressing problem. And very quickly, it dawned on us that we were all unclear about what this was. Was it about saving the lives of people who might be endangered or hurt in the incidents, or was it about getting them back and operational as quickly as possible so more people could enjoy the experience of a wonderful cruise, or was it about restoring the reputation that this institution had built over many generations? So really honing in on that was critical at the first step because, as you could imagine, the solutions for all those different questions were fundamentally different.
+
+MARC: I can really relate to that. I think particularly in the moment, there are two challenges that we oftentimes see. One is you are oftentimes dealing with imperfect information. It's in the moment. You haven't had time to do analysis. So what do you do in that moment? I think the second is, particularly for those urgent situations, there's such a strong bias to action that sometimes the hardest thing to do is to force yourself and force a group to stop and think and say, hey, have we actually defined this problem as best we can so we can get to the answer more quickly?
