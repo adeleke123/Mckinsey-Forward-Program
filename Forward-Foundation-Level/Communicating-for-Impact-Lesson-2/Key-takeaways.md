@@ -22,9 +22,10 @@ Before you move on, download a summary of key points covered in this section:
 
 Wired to care: How companies prosper when they create widespread empathy (Book | FT Press)
 
-[Brené Brown on empathy](https://www.youtube.com/watch?v=1Evwgu369Jw) (Video | YouTube)
-[Tuning in, turning outward: Cultivating compassionate leadership in a crisis](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/tuning-in-turning-outward-cultivating-compassionate-leadership-in-a-crisis) (Article | McKinsey & Company)
-[The secret of empathy](https://www.mcgill.ca/newsroom/channels/news/secret-empathy-241112) (Article | McGill University)
-Please continue on if you are restricted from accessing video sharing platforms.
++ [Brené Brown on empathy](https://www.youtube.com/watch?v=1Evwgu369Jw) (Video | YouTube)
++ [Tuning in, turning outward: Cultivating compassionate leadership in a crisis](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/tuning-in-turning-outward-cultivating-compassionate-leadership-in-a-crisis) (Article | McKinsey & Company)
++ [The secret of empathy](https://www.mcgill.ca/newsroom/channels/news/secret-empathy-241112) (Article | McGill University)
+
++ Please continue on if you are restricted from accessing video sharing platforms.
 
 
