@@ -15,3 +15,4 @@ Write 3-5 sentences describing a situation where you did a great job communicati
 Then, write 3-5 sentences describing a situation where you faced challenges communicating. Which part of EPIC might have helped you in the moment?
 
 You can choose a professional or personal context. Give concrete examples of each situation and, most importantly, be honest with yourself!
+[CFI-Learning-Intentions-Workbook.pptx](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11601263/CFI-Learning-Intentions-Workbook.pptx)
