@@ -17,6 +17,6 @@ Before you move on, download a summary of key points covered in this section:
 
 ## You may also wish to explore:
 
-[How to design an agenda for an effective meeting](https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting) (Article | Harvard Business Review)
-[Change your intention to focus your attention](https://hbr.org/2014/01/change-your-intention-to-focus-your-attention) (Article | Harvard Business Review)
++ [How to design an agenda for an effective meeting](https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting) (Article | Harvard Business Review)
++ [Change your intention to focus your attention](https://hbr.org/2014/01/change-your-intention-to-focus-your-attention) (Article | Harvard Business Review)
 
