@@ -1,3 +1,6 @@
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/d54564d8-9202-4fdb-a6dd-843dce35b855)
+
+
 ## Communicating with purpose
 
 After considering your audience, their thoughts, feelings, and perspective, you are now ready to define the purpose of your interaction. There can be many purposes for a meeting; however, getting crystal clear on the context can help streamline your communications and help you effectively reach your objectives. In this video, Kate explains what it means to have a purpose.
