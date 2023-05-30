@@ -12,3 +12,5 @@ Relying on instincts and experience to make quick judgments under pressure
 “Biting off more than you can chew” and attempting to solve for a much larger problem than required, or for which resources are inadequate
 Forgetting the needs and priorities of the stakeholders for whom you are solving the problem
 As you'll see in this section, the very best problem solvers benefit from slowing down and questioning their instincts. It's critical to take a rigorous and creative approach in rapid-turn situations and on longer-term projects.
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/157bb11a-3a2f-4abc-b1c8-dafd140d4a24)
