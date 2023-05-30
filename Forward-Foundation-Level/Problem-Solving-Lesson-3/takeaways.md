@@ -25,4 +25,4 @@ Define the problem:[PS-Section3-KeyTakeaways.pdf](https://github.com/adeleke123/
 
 You may also wish to explore:
 
-[The case for behavioral strategy]https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-case-for-behavioral-strategy(Article | McKinsey Quarterly)
+[The case for behavioral strategy](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-case-for-behavioral-strategy(Article | McKinsey Quarterly)
