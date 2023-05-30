@@ -9,6 +9,7 @@ Your next step is to write a key line statement for each group of facts. A key l
 Review the facts from the MODA example and answer the question below.
 
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/e7f579b3-3ba5-47ec-b319-54924a454e36)
 
 
 
@@ -19,20 +20,20 @@ Which statement best synthesizes the facts in the left most grouping?
 
 Review the following information. Then select the best answer and click Submit.
 
-Offering health-focused spaces like a yoga studio is consistent with MODA’s health initiative.
++ Offering health-focused spaces like a yoga studio is consistent with MODA’s health initiative.
 
-Classes in-house provide an affordable alternative and encourage exercise and improvement in health.
++ Classes in-house provide an affordable alternative and encourage exercise and improvement in health.
 
-MODA should offer an affordable option to nearby studios because employees value cost-savings.
-Submit
-Which statement best synthesizes the facts in the middle grouping?
++ MODA should offer an affordable option to nearby studios because employees value cost-savings.
 
-A new yoga studio would reduce waiting time relative to external classes by only serving MODA colleagues.
+## Which statement best synthesizes the facts in the middle grouping?
 
-
-An onsite yoga studio will save time and make MODA’s people more efficient.
++ A new yoga studio would reduce waiting time relative to external classes by only serving MODA colleagues.
 
 
-The yoga studio will be well-utilized by MODA people due to the reduced wait time.
++ An onsite yoga studio will save time and make MODA’s people more efficient.
+
+
++ The yoga studio will be well-utilized by MODA people due to the reduced wait time.
 
 
