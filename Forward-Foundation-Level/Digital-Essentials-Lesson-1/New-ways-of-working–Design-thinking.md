@@ -1,3 +1,4 @@
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/38b73dfb-eca9-44ba-aab1-1a597d53efa4)
 
 ## New ways of working
 The third component of going digital is introducing new ways of working. Changing how we work helps us use technology and data to collaborate, take smarter risks, and test ideas faster—all to better meet people’s needs. Next, we’ll explore new ways of working such as design thinking and Agile.
