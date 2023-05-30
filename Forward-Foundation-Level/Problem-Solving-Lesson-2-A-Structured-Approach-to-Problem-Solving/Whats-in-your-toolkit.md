@@ -11,7 +11,10 @@ The hypothesis-led approach to problem solving relies on key tools and technique
 + Work plan worksheet
 + Influence model
 
+[PS-Problem-Solving-Toolkit.pptx](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11598683/PS-Problem-Solving-Toolkit.pptx)
+
+
 The hypothesis-led approach is applicable regardless of the size of the problem; it can be adapted to address the need at hand while still facilitating a structured approach. As you apply it on the job, you will likely find yourself iterating on steps—diving into them in more or less depth—when working on parts of the same challenge in different situations. On the next page, you’ll see an example.
 
-Optional listening (or reading): Listen to a podcast (or read the transcript) on mastering the seven-step approach to problem solving.
+Optional listening (or reading): [Listen to a podcast](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-master-the-seven-step-problem-solving-process) (or read the transcript) on mastering the seven-step approach to problem solving.
 
