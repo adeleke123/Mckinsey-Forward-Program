@@ -42,4 +42,5 @@ High-stakes decision making is likely to warrant a full problem-solving project.
 
 Flip
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/151840a3-a67e-4be7-a3dc-1c398346e6e7)
 
