@@ -1,5 +1,7 @@
 ## Key takeaways
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/bbfbbaed-b913-41dd-8b46-8a63b087f884)
+
 In this section, you explored the fundamentals of good communication. Key points include:
 
 The purpose of communications is connecting with your audience so you can move them to action
@@ -10,13 +12,16 @@ For the rest of the course, you’ll explore the EPIC approach to communications
 + Resources
 Before you move on, download a summary of key points covered in this section
 
-+ Introduction: Key takeaways
-+ CFI Learning intentions workbook
++ Introduction: [Key takeaways](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11601336/CFI-L1-Introduction-KeyTakeaways.pdf)
 
-* EPIC Worksheet
++ [CFI Learning intentions workbook](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11601342/CFI-Learning-Intentions-Workbook.1.pptx)
 
-You may also wish to explore:
 
-Mastering communication at work: How to lead, manage, and influence (Book | McGraw-Hill)
-The charisma myth: How anyone can master the art and science of personal magnetism (Book | Portfolio/Penguin)
+* [EPIC Worksheet](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11601349/CFI-EPICWorksheet.pptx)
+
+
++ You may also wish to explore:
+
++ Mastering communication at work: How to lead, manage, and influence (Book | McGraw-Hill)
++ The charisma myth: How anyone can master the art and science of personal magnetism (Book | Portfolio/Penguin)
 
