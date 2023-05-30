@@ -3,6 +3,9 @@
 
 The goals of the course are to help you move people to action based on four key steps of the EPIC approach to communications:
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/415c64ad-7843-46fe-bb15-db1451756f26)
+
+
 Empathy
 
 Put yourself in the other person’s shoes to understand their perspective
