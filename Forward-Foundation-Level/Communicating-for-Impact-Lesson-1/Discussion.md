@@ -1,4 +1,5 @@
-Which speakers do you find inspiring?
+## Which speakers do you find inspiring?
+
 Before we explore the EPIC framework, which can help guide your interactions, think about speakers that you have found inspiring. Some presentations are simply unforgettable. We want to hear about them!
 
 * Discussion
@@ -10,6 +11,6 @@ Put the name of the speaker in the title of your post, describe why he or she in
 What was the result of the presentation? What action was taken?
 Need a couple examples to help spark some ideas?
 
-Watch Steve Jobs’ 2005 Stanford commencement address
-Watch former PepsiCo CEO Indra Nooyi’s remarks upon receiving an award as one of the 25 Greatest Global Living Indians
+[Watch](https://www.youtube.com/watch?v=UF8uR6Z6KLc) Steve Jobs’ 2005 Stanford commencement address
+[Watch](https://www.youtube.com/watch?v=24d4rfnsOxg) former PepsiCo CEO Indra Nooyi’s remarks upon receiving an award as one of the 25 Greatest Global Living Indians
 The discussion forum will open in another tab. Select Section 1: Which speakers do you find inspiring? to join the discussion.
