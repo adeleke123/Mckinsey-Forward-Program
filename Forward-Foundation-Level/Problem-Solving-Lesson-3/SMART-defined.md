@@ -26,5 +26,6 @@ Problem questions should always be time-bound to ensure that everyone comes up w
 
 This table describes each aspect of SMART. Download a copy of this table that you can keep and use on the job.
 
-SMART (PDF)
+[PS-SMART.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11599199/PS-SMART.pdf)
+
 
