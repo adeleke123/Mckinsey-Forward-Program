@@ -7,3 +7,19 @@ Design thinking is a way of working focused on addressing the needs of users or 
 
 ## Identify the end user
 Flip each card to learn about possible end users for organizations.
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/8cb673b8-d151-4da5-8770-be56c657a91c)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/a339b849-59bd-4f70-85ea-30dc90252747)
+
+
+**Solving the right problem**
+
+With end users in mind, you might uncover unmet needs that should be prioritized in your design. No matter your role or industry, empathizing with end users and defining the right problem saves time and improves the solution.
+
+Flip each card to see how design thinking helped organizations identify the right problem.
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/4996a3a9-6422-425c-b28a-dc1ed65571cc)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/4380c79b-8970-42d0-9455-6b7192cc19e8)
+
