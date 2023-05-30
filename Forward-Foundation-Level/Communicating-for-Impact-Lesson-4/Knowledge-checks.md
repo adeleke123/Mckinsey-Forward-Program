@@ -37,3 +37,26 @@ Review the following information. Then select the best answer and click Submit.
 + The yoga studio will be well-utilized by MODA people due to the reduced wait time.
 
 
+## Make the case for an in-house MODA yoga studio
+
+Now that you've identified key line statements for each group of facts, it's time to articulate one overarching statement that synthesizes your key line statements. This statement is called a governing thought.
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/a2eb0ceb-ed1d-49ff-8f23-0114be1cca5e)
+
+* Knowledge check
+
+## Read the potential governing thoughts listed below. Which one best synthesizes the key line statements in MODA's pyramid?
+
+
+## Review the following information. Then select the best answer and click Submit.
+
+
++ MODA cares about the health and well-being of its people.
+
+
++ MODA should help save people time and find ways to foster community building.
+
+
++ MODA should open a yoga studio inside of its headquarters.
+
+
