@@ -15,10 +15,14 @@ While all steps of the problem-solving process can be useful in any situation, f
 
 Before you move on, download a summary of key points covered in this section:
 
-Define the problem: Key takeaways (PDF)
-SMART (PDF)
-Problem Statement Worksheet (PPT)
-Try it now: Use the Problem Statement Worksheet (PPT)
+Define the problem:[PS-Section3-KeyTakeaways.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11600339/PS-Section3-KeyTakeaways.pdf)
+
+[PS-SMART (1).pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11600346/PS-SMART.1.pdf)
+
+[PS-Problem-Statement-Worksheet (1).pptx](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11600349/PS-Problem-Statement-Worksheet.1.pptx)
+
+[PS-L3-TryItNow (1).pptx](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11600358/PS-L3-TryItNow.1.pptx)
+
 You may also wish to explore:
 
-“The case for behavioral strategy” (Article | McKinsey Quarterly)
+[The case for behavioral strategy]https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-case-for-behavioral-strategy(Article | McKinsey Quarterly)
