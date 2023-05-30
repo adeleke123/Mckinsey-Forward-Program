@@ -2,7 +2,8 @@
 
 A primary tool for defining a problem is the Problem Statement Worksheet. This tool will give you and any collaborators a deeper understanding of the problem by helping you reflect on and discuss the context, stakeholders, and scope. This awareness often generates fruitful and even surprising insights. Post a copy of the Problem Statement Worksheet in your office and refer to it frequently to stay focused on the right problem—even when you don't have a lot of time.
 
-Problem Statement Worksheet (PPT)
++ [PS-Problem-Statement-Worksheet.pptx](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11599345/PS-Problem-Statement-Worksheet.pptx)
+
 Click each section to learn more about the Problem Statement Worksheet.
 
 
