@@ -50,4 +50,5 @@ In Section 8, you'll
 Learn how to facilitate productive group discussions that create a collaborative and inclusive environment
 At the end of this course, you will assess your mastery of the elements of effective communication covered in the course.
 
+[MMP-Communicating-for-Impact-Overview (1).pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11601072/MMP-Communicating-for-Impact-Overview.1.pdf)
 
