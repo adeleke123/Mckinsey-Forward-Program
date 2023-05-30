@@ -18,7 +18,8 @@ Write down your definition of the problem.
 Fill in the Problem Statement Worksheet to the best of your ability. It’s okay if some categories are less detailed than others—do the best you can with the information in hand.
 Reflecting on how the Problem Statement Worksheet provided insights that your initial definition didn’t have could help you become more familiar with your tendencies and blind spots.
 
-Try it now: Use the Problem Statement Worksheet (PPT)
+Try it now: [PS-Problem-Statement-Worksheet.pptx](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11600226/PS-Problem-Statement-Worksheet.pptx)
+
 
 You will have an opportunity to share your findings and hear about your peers’ experiences with this activity at the beginning of the next section.
 
