@@ -10,7 +10,7 @@ Which of these facts does not belong?
 
 Review the following information. Then select the best answer and click Submit.
 
-~60% of potential customer loyalty program sign-ups are lost due to the perceived time burden
++ ~60% of potential customer loyalty program sign-ups are lost due to the perceived time burden
 
-Staff currently spend 40% of time on inventory counts on the floor and in the backroom
-Competitors with streamlined loyalty program sign-up processes rank higher on customer satisfaction
++ Staff currently spend 40% of time on inventory counts on the floor and in the backroom
++ Competitors with streamlined loyalty program sign-up processes rank higher on customer satisfaction
