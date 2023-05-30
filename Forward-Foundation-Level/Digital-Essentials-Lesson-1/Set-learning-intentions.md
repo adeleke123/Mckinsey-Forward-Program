@@ -12,3 +12,4 @@ Here are some ideas to help you set your learning intentions. Download the Cours
 + What might be meaningful or important for me to accomplish by the end of this learning journey?
 + What are my thoughts and feelings about my organization’s push to go digital? Where do I hope to be by the end of the program?
 + What are my most urgent questions about going digital? Which topics are most interesting? (Keep a running list as you complete this program. Any unanswered questions may point you towards areas for continued learning.)
+[DigE-WhyIsEveryoneExcited-Workbook.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11606401/DigE-WhyIsEveryoneExcited-Workbook.pdf)
