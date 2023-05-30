@@ -30,3 +30,6 @@ Identify an email that you sent to a colleague in the last week which covered a 
 + What is your governing thought (which you lead with)?
 + What are your few supporting arguments below the governing thought?
 + What is your call to action (which you close with)?
+
+[CFI-L4-TryitNow.pptx](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11604032/CFI-L4-TryitNow.pptx)
+
