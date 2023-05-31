@@ -18,3 +18,6 @@ What is one way you can contribute to the success of that building block in your
 + If you’re a manager using data in new ways, you might discuss training opportunities with your team.
 + If you have expertise in a technology your team uses, you could offer to mentor colleagues.
 + You can discuss professional development opportunities with your manager.
+
+[DigE-HowGoDigital-Workbook.pdf](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11610592/DigE-HowGoDigital-Workbook.pdf)
+
