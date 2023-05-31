@@ -7,3 +7,17 @@ Their first step is to deeply understand and empathize with Uno’s younger cust
 They start by diving into the quantitative data, that is, numeric data that can be measured and charted.
 
 Review the sales figures below:
+
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/c2f4feff-ae4a-40d6-a304-8779caf53995)
+
+* Knowledge check
+
+## What strategy should Uno Soda take to grow sales?
+
+
+Review the statements below. Then select the best option and click Submit.
+
++ Uno Soda should expand the number of grocery stores selling their cola
++ Uno Soda should focus on new soda flavors and sell them online
++ Neither of the above
