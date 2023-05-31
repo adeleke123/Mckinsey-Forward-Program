@@ -11,4 +11,5 @@ As you work on your idea, ask yourself:
 + What’s an easy way to address the challenge?
 + If you could do a full redesign, what would you do?
 
-Download workbook
+[Download workbook](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11611213/DigE-DesignThinking-Workbook.pdf)
+
