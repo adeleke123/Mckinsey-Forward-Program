@@ -9,3 +9,6 @@ Quantitative data can help us understand what end users do. Numbers can show who
 ## Qualitative data
 
 Qualitative data can help us understand why users do things or what they would prefer to do if they had more choices. Those insights help us “tell the story” of what end users want and need, so we can create a delightful experience.
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/d027c1dc-4e08-4a8d-a778-6e885b0e6059)
+
