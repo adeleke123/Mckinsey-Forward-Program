@@ -4,6 +4,9 @@ It’s important to set milestones so you can recognize and celebrate progress a
 
 For examples of milestones, consider Sam, Aaron, and Elaine’s reflections.
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/cfd9db45-4fb9-4af8-a997-702882606e10)
+
+
 ```
 Your vision for your future is below. Consider what you wrote previously before adding to your story.
 
