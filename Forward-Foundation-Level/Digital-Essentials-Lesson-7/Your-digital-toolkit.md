@@ -4,4 +4,10 @@ Throughout this program, you’ve already assembled a digital toolkit to help yo
 
 Flip each card to view more.
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/0c2ec04a-718f-4088-bd9a-54a8c35988a8)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/6dbc7207-a840-410f-a568-ddb7165d329a)
+
+
+
 
