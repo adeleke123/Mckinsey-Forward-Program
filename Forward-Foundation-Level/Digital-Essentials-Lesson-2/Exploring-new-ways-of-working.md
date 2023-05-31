@@ -2,6 +2,9 @@
 
 Thirty minutes later…
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/ac016ca6-2126-41e7-98e7-535e95d04dae)
+
+
 
 ## What’s the best way to make sure Team Rocket has the decision-making power needed to act on their plans?
 
