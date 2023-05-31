@@ -42,5 +42,6 @@ Before you help Team Rocket plan their first sprint, try planning one of your ow
 + Refine your backlog. What tasks will fit in one sprint that’s no more than three weeks long? What tasks are most impactful?
 + Plan your opportunities to learn. What experiments will you do in the first sprint? What feedback will you seek from end users and stakeholders? If this is a multi-sprint project, how will you make adjustments or iterate in future sprints based on what you learn?
 
-+ Download workbook
++ [Download workbook](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11611862/DigE-Agile-Workbook.pdf)
+
 
