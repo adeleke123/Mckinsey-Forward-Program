@@ -64,3 +64,10 @@ Managers at Uno Soda ask three main questions when dealing with data on an opera
 
 Flip each card to learn about the types of dilemmas organizations face.
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/d0779101-2b97-4dc3-b2ed-4bb99961bbb1)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/701745e5-b9e6-401f-8958-8876cf306224)
+
+
+
+
