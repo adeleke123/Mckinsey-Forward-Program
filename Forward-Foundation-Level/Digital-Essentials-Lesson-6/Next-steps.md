@@ -9,18 +9,18 @@ In this course, you learned:
 
 You can download a summary of key takeaways here:
 
-Download key takeaways
-You may also wish to explore further:
++ [Download key takeaways](https://github.com/adeleke123/Mckinsey-Forward-Program/files/11614688/DigE-Data-Workbook.pdf)
 
-﻿Why data culture matters
+## You may also wish to explore further:
 
-McKinsey Quarterly, September 2018
++ [Why data culture matters](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-data-culture-matters)
++ McKinsey Quarterly, September 2018
 
-How to make the most of AI? Open up and share data
-McKinsey Analytics, June 2020
++ [How to make the most of AI? Open up and share data](https://www.mckinsey.com/capabilities/quantumblack/our-insights/how-to-make-the-most-of-ai-open-up-and-share-data)
++ McKinsey Analytics, June 2020
 
-How to build a data architecture to drive innovation—today and tomorrow
-McKinsey Digital, June 2020
++ [How to build a data architecture to drive innovation—today and tomorrow](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/how-to-build-a-data-architecture-to-drive-innovation-today-and-tomorrow)
++ McKinsey Digital, June 2020
 
-Data privacy: What every manager needs to know
-The McKinsey Podcast, July 2018
++ [Data privacy: What every manager needs to know](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/data-privacy-what-every-manager-needs-to-know)
++ The McKinsey Podcast, July 2018
