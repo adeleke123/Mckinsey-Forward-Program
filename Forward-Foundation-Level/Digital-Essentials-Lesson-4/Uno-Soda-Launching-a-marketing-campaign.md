@@ -7,4 +7,20 @@ Team Rocket begins with one goal: Test three marketing campaigns featuring the o
 
 To deliver a campaign that will improve sales fast, Team Rocket must experiment and learn quickly, focusing on details that drive the most value. Agile teams are generally small, nimble, and empowered to make decisions. Exact roles vary, but these four are common.
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/ac39c288-e0b8-493e-8fdf-010110df3f11)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/2b540afc-9856-4530-b139-692368ab4cfb)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/490ad720-774d-48a5-af08-633b3c1f98d9)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/00c328ff-bd06-43b2-857c-98c5b890d082)
+
+## Extended Agile team
+
+Functional specialists and subject-matter experts may provide insights as needed. A UI/UX (user interface/user experience) designer might weigh in on website design, while an analytics expert might develop new metrics to track consumer engagement.
+
++ Brand marketing expert: Analyzes potential impacts on brand coherence and loyalty
++ Media lead: Creates, edits, and delivers marketing materials
++ Supply chain specialist: Advises on cost, logistics implications, and delivery timelines for given product proposals
+
 
