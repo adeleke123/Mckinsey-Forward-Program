@@ -17,4 +17,22 @@ Amar, Aaliyah, and Janna interviewed 15 natural soda drinkers ages 20-34. Common
 
 Flip each card to read how the customers answered these questions. When you’re finished, scroll down to make a recommendation.
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/0782c7d6-6a68-418d-85f3-331c874db657)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/71ef9289-8b59-4c9b-911b-0c4a0421ae41)
+
+* Knowledge check
+
+The team’s qualitative research sparked lots of ideas for increasing Uno Soda’s sales among younger consumers. Which ones should the team try?
+
+Based on qualitative interviews, which experiments should the team try?
+
+
+### Review the following information. Then select all answers that apply and click Submit.
+
++ Run pilots to test unusual flavors in grocery stores
++ Increase marketing on gourmet food websites
++ Develop more unusual flavors
++ Hold a contest for people to suggest innovative new soda flavors
+
 
