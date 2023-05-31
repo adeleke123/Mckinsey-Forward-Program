@@ -10,8 +10,8 @@ In this course, you have learned:
 
 You may also wish to explore:
 
-+ The drumbeat of digital: How winning teams play
-*McKinsey Digital, June 2019
++ [The drumbeat of digital: How winning teams play](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-drumbeat-of-digital-how-winning-teams-play)
+* McKinsey Digital, June 2019
 
-+ Unleashing the power of small independent teams
-*McKinsey Quarterly, July 2018
++ [Unleashing the power of small independent teams](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/unleashing-the-power-of-small-independent-teams)
+* McKinsey Quarterly, July 2018
