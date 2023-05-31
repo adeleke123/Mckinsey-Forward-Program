@@ -5,5 +5,7 @@ Back at Uno Soda, Team Rocket has launched a new website where customers can ord
 They interview some potential customers. Sample customer responses, representing three key themes, are provided below.
 
 Flip each card to read more about their shopping experience.
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/bd77b062-a71b-46fd-914a-fc89f7b311d9)
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/da0e970c-eca9-42e8-864f-b357810f07a8)
 
