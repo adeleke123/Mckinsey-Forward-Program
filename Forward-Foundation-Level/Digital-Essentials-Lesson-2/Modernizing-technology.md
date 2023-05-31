@@ -2,6 +2,9 @@
 
 The conversation continues…
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/cda6837a-0408-4661-bdc4-f5dd7d929dba)
+
+
 ## What should the team do now?
 
 
