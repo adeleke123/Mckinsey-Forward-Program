@@ -1,5 +1,6 @@
 ## Making data-based decisions
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/776f181f-03bb-4bde-a22f-b7f0afe9039b)
 
 
 ## How do you think Aaliyah, Amar, and Janna should resolve this conflict?
