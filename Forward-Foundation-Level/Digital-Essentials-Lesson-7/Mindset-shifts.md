@@ -4,6 +4,9 @@ Other people on similar learning journeys have found mindset shifts to be critic
 
 Flip each card to view more.
 
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/223c20c5-3b5a-4278-a903-83c1d7463d94)
+
+![image](https://github.com/adeleke123/Mckinsey-Forward-Program/assets/51156057/c629bc28-d778-4fce-a141-b0779803aeb2)
 
 
 ## Reflection
